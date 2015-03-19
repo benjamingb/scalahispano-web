@@ -1,2 +1,4 @@
 # scalahispano-web
-Sitio web de Escala Hispano
+Sitio Web de Escala Hispano
+
+Si deseas contribuir eres bienvenido
